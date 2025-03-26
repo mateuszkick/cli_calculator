@@ -1,1 +1,8 @@
+mkdir src
+mkdir tests
+mkdir docs
+touch src/main.py
+touch src/database.py
+touch requirements.txt
+echo "__pycache__/" >> .gitignore
 
